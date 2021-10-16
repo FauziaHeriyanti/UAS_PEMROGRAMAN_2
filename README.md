@@ -1,3 +1,3 @@
-# UAS-Pemrograman-2
-Nama : Irman Gantira
-NIM : 191011402038
+# UAS Pemrograman 2
+Nama : Fauzia Heriyanti
+NIM : 191011402024
