@@ -24,7 +24,7 @@ public class Data {
         this.judul = judul;
         this.penerbit = penerbit;
         this.tahun = tahun;
-        this.jenisbuku = isibuku;
+        this.isibuku = isibuku;
         this.harga = harga;
     }
 
@@ -77,7 +77,7 @@ public class Data {
     }
 
     public void setisibuku(String isibuku) {
-        this.jenisbuku = isibuku;
+        this.isibuku = isibuku;
     }
 
     public void setharga(Long harga) {
